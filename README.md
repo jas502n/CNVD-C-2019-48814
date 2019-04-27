@@ -1,7 +1,12 @@
 # CNVD-C-2019-48814
 WebLogic wls9-async反序列化远程命令执行漏洞
 
+### Patch update: 
+```
 
+https://www.oracle.com/technetwork/security-advisory/alert-cve-2019-2725-5466295.html
+
+```
 ### 漏洞复现：
 
 
